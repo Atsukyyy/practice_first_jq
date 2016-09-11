@@ -1,7 +1,9 @@
-<script type="text/javascript">
-	$(function(){
+console.log("hi");
+
+
+$(function(){
     
-	$("#jQueryBox").css("display", "none");
+	$("#jQueryBox").css("display","none");
  
     
 	$("#jQueryPush").click(function(){
@@ -11,4 +13,3 @@
     });
 });
 
-</script>
